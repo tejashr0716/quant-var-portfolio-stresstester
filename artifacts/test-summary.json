@@ -1,0 +1,11 @@
+{
+  "project": "quant-var-portfolio-stresstester",
+  "timestamp": "2026-10-24T08:26:05.013790+00:00",
+  "total_tests": 31,
+  "passed": 31,
+  "failed": 0,
+  "errors": 0,
+  "skipped": 0,
+  "pass_rate_percent": 100.0,
+  "duration_seconds": 3.2
+}

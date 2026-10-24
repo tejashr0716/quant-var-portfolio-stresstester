@@ -1,0 +1,22 @@
+{
+  "benchmark": "Quant VaR Monte Carlo Simulation & Crisis Stress Testing",
+  "timestamp": "2026-10-24T08:26:25.740380+00:00",
+  "total_monte_carlo_runs": 50,
+  "paths_per_simulation": 10000,
+  "total_simulated_paths": 500000,
+  "total_duration_seconds": 0.084,
+  "throughput_paths_per_second": 5958528.66,
+  "monte_carlo_execution_latency_ms": {
+    "min": 1.337,
+    "mean": 1.678,
+    "p50": 1.505,
+    "p95": 2.417,
+    "p99": 2.837,
+    "max": 3.071
+  },
+  "stress_test_avg_latency_ms": 0.0124,
+  "target_compliance": {
+    "p95_under_25ms": true,
+    "convergence_verified": true
+  }
+}
